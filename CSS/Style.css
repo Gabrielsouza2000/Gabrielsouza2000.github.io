@@ -1,6 +1,6 @@
 /* Define o estilo geral do corpo da página */
 body {
-    background-image: url("../img/portfolio-background.gif");    color: #ffffff; /* Cor do texto */
+    background-image: url("../IMG/portfolio-background.gif");    color: #ffffff; /* Cor do texto */
     font-family: 'Arial', sans-serif; /* Fonte padrão */
     background-repeat: no-repeat; /* Impede que a imagem se repita */
     background-size: cover; /* Ajusta a imagem para cobrir toda a tela */
